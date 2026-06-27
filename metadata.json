@@ -1,0 +1,6 @@
+{
+  "name": "AI Meal Planner",
+  "description": "An AI-powered meal planning and recipe app with custom macronutrient tracking, real-time budget validation, and pantry ingredient substitution suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
